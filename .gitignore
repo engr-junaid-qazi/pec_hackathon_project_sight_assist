@@ -1,0 +1,10 @@
+
+.env
+
+# Ignore virtual environment
+pec-genai/
+
+# Ignore audio temp files
+audio_temp_files/
+
+*.pt
